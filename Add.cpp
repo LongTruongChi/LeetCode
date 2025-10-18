@@ -19,6 +19,8 @@ void inserttop(int x) //insert at begining
 void myFirstCommit()
 {
      printf("My First Commit");
+
+     printf("This will be in new branch of github");
 }
 
 void insertbot(int y)
