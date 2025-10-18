@@ -16,6 +16,11 @@ void inserttop(int x) //insert at begining
      head = newNode;      
 }
 
+void myFirstCommit()
+{
+     printf("My First Commit");
+}
+
 void insertbot(int y)
 {
      
